@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6285936162097@s.whatsapp.net","6285936162097@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ haris ×፝֟͜×",
+    "instagram" : "soon",
+    "gcwa" : "https://chat.whatsapp.com/D7x50SjM8QyDYZuwCNOZmI",
+    "botName": "anime ",
+    "footer": "© haris",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "DtYvrplpBcYlT5I",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
